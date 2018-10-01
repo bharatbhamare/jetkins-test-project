@@ -6,7 +6,7 @@
 	<groupId>com.jet</groupId>
 	<artifactId>jet</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 
 	<name>jet</name>
 	<description>Demo project for Spring Boot</description>
